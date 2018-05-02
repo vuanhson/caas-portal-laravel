@@ -1,0 +1,33 @@
+.menu-left {
+    position: fixed;
+    min-width: 340px;
+    height: 100%;
+    padding-top: 20px;
+    background: #e0e0e0;
+    left: 0;
+}
+li b {
+    color: #6565d0;
+}
+
+span.tilte {
+    font-size: 18px;
+    font-weight: bolder;
+}
+ul {
+    list-style: none;
+}
+ul.menu li {
+    line-height: 30px;
+    color: #000;
+    font-size: 1em;
+}
+.mdl-data-table {
+    width: 100%;
+}
+.mdl-data-table tr td {
+    max-width: 250px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
